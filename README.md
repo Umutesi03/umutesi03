@@ -23,6 +23,9 @@ Curious developer, always seeking new challenges and growth. I love exploring di
 ## 📊 GitHub Stats
 ![Umutesi03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umutesi03&show_icons=true&theme=radical)
 
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umutesi03&layout=compact&hide_progress=false)
+
 ## 🌐 Connect with Me
 - [GitHub](https://github.com/Umutesi03)
 
